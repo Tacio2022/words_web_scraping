@@ -9,4 +9,4 @@
  - Beautifulsoup
  - Wordcloud
  - Matplotlib
- - -Pandas
+ - Pandas
